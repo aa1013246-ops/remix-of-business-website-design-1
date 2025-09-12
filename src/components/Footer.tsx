@@ -45,6 +45,7 @@ const Footer: React.FC<FooterProps> = ({
     { label: "من نحن", href: "/about" },
     { label: "اتصل بنا", href: "/contact" },
     { label: "الشروط والأحكام", href: "/terms" },
+    { label: "سياسة الإرجاع", href: "/return-policy" },
   ],
   showSocial = true,
   linkedinUrl,
